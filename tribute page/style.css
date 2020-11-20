@@ -1,0 +1,101 @@
+#main{
+    background-color: lightgrey;
+    margin-bottom: 30px;
+}
+
+.titlepage{    
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 60px;
+    border-bottom: 1px solid black;
+    max-width: 5em;
+    margin: 0 auto;
+}
+
+.subtitle{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 1em;
+    color: black;
+    font-weight: lighter;
+}
+.titlecontainer{
+    padding: 10px;
+    margin-top: 3em;
+}
+
+.sub-text-img{
+    font-size: 20px;
+    text-align: center;
+    margin: -9px 1em;
+    font-weight: lighter;
+    padding: 12px;
+    
+}
+
+#img-div{
+    background-color: white;
+    margin: auto 1em;
+}
+
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    min-width: 390px;
+    max-width: 100%;
+    padding: 1em ;
+}   
+
+.footer-end{
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;    
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.text-dates{
+    text-align: start;
+    max-width: 700px;
+    margin: 0 auto; 
+    font-size: 20px;
+}
+
+.text-dates li{
+    margin: 1.2em;
+    line-height: 1.5em;
+    list-style-position: outside;
+}
+
+.text-list-title{
+    text-align: center;
+    padding: 2em;
+}
+
+.quote{
+    text-align: start;
+    margin: 0 auto;;
+    font-size: 20px;
+    font-weight: lighter;
+    max-width: 700px;
+    margin-right: .9em;
+    
+}
+.name-quote{
+    display: block;
+    text-align: start;
+    margin: 0 auto;;
+    font-size: 20px;
+    font-weight: lighter;
+    max-width: 700px;
+    margin-top: 1em;
+}
+
+.container-quote
+{
+    margin: 2.5em 0px;
+}
